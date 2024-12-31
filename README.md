@@ -1,6 +1,6 @@
 <h1>Live Link</h1>
 
-https://chaithanya-markdown-notes.netlify.app
+https://chaithanyak-markdown-notes.netlify.app/
 
 # Getting Started
 Install the dependencies and run the project in watch mode
